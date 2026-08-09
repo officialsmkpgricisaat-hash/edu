@@ -1,0 +1,6 @@
+{
+  "name": "EduAdmin Portal",
+  "description": "Sistem Administrasi Akademik Sekolah Integrated 5-Role Portal (Admin, Guru, Wali Kelas, Siswa, Kepala Sekolah)",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
